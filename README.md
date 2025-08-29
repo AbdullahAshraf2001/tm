@@ -17,5 +17,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## screenshots from the application
 
-<h3>Splash Screen</h3>
+<h3>Home Screen</h3>
 <img src="appImages/1.jpg" width="300"/>
+
+<h3>Add Task</h3>
+<img src="appImages/2.jpg" width="300"/>
+
+<h3>Complete the task</h3>
+<img src="appImages/3.jpg" width="300"/>
+

@@ -1,6 +1,6 @@
-# tm
+# Task Manager
 
-A new Flutter project.
+Task Manager Application designed to help users efficiently manage their tasks, Users can create, mark as completed, and delete tasks with filtering them.
 
 ## Getting Started
 
